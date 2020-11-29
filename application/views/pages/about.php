@@ -1,1 +1,2 @@
-This is about all
+<br>
+<h2><?= $title ?></h2>
